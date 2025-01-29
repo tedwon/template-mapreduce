@@ -22,7 +22,7 @@
         <!-- Dependencies -->
         <hadoop.version>1.1.1</hadoop.version>
         <mahout.version>0.7</mahout.version>
-        <hive.version>0.10.0</hive.version>
+        <hive.version>4.0.1</hive.version>
         <pig.version>0.11.0</pig.version>
         <slf4j.version>1.6.4</slf4j.version>
         <log4j.version>1.2.16</log4j.version>
